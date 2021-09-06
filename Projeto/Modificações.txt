@@ -1,0 +1,2 @@
+Foram modificados os botões de assistir agora e informações,
+mandando para outra página quando clicados.
